@@ -1,0 +1,22 @@
+Comandos utilizados:
+
+Git clone 
+Cd
+Mkdir Semana2
+Cd Semana2
+ls
+touch preguntas-semana2.txt
+nano preguntas-semana2.txt
+cat preguntas-semana2.txt
+
+touch comandos-terminal.txt
+nano comandos-terminal.txt
+cat comandos-terminal.txt
+
+touch reflexion-semana2.txt
+nano reflexion-semana2.txt
+cat reflexion-semana2.txt
+
+git add .
+git commit –m “actividad semana 2”
+git push
